@@ -1,0 +1,57 @@
+{
+  "overall": 75.5,
+  "skinAge": 36,
+  "scores": [
+    {
+      "type": "moisture",
+      "score": 71
+    },
+    {
+      "type": "pore",
+      "score": 72
+    },
+    {
+      "type": "redness",
+      "score": 76
+    },
+    {
+      "type": "acne",
+      "score": 83
+    }
+  ],
+  "picks": [
+    {
+      "handle": "the-ceramide-skin-barrier-moisturizer",
+      "title": "The Ceramide Skin Barrier Moisturizer",
+      "price": "23.00",
+      "for": "moisture",
+      "hits": [
+        "hyaluronic",
+        "ceramide"
+      ],
+      "url": "https://www.cosrx.com/products/the-ceramide-skin-barrier-moisturizer"
+    },
+    {
+      "handle": "the-niacinamide-15-serum-번들",
+      "title": "The Niacinamide 15 Serum",
+      "price": "25.00",
+      "for": "pore",
+      "hits": [
+        "niacinamide",
+        "pore"
+      ],
+      "url": "https://www.cosrx.com/products/the-niacinamide-15-serum-번들"
+    },
+    {
+      "handle": "pure-fit-cica-calming-true-sheet-mask",
+      "title": "Pure Fit Cica Calming True Sheet Mask",
+      "price": "6.00",
+      "for": "redness",
+      "hits": [
+        "centella",
+        "cica"
+      ],
+      "url": "https://www.cosrx.com/products/pure-fit-cica-calming-true-sheet-mask"
+    }
+  ]
+}
