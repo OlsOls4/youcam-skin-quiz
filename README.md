@@ -38,7 +38,7 @@ All calls use `Authorization: Bearer <your key>`. Check your balance for free wi
 ## No-code version (n8n)
 ![n8n workflow](docs/workflow-canvas.png)
 
-A ready-to-import **n8n template** wraps the same flow in a hosted quiz form with photo consent, a results page with product cards, retake-photo handling, a sensitive-skin filter and optional **Klaviyo** profile sync: [Olly's Automation Templates on Payhip](https://payhip.com/OllysAutomationTemplates) (paid; this script stays free and MIT).
+A ready-to-import **n8n template** wraps the same flow in a hosted quiz form with photo consent, a results page with product cards, retake-photo handling, a sensitive-skin filter and optional **Klaviyo** profile sync: [Olly's Automation Templates on Payhip](https://payhip.com/b/6TuWA) (paid; this script stays free and MIT).
 
 ## Notes
 - Faces are biometric data in many jurisdictions (UK/EU GDPR, Illinois BIPA): get explicit consent and link a privacy notice.
