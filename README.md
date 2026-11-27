@@ -40,6 +40,10 @@ All calls use `Authorization: Bearer <your key>`. Check your balance for free wi
 
 A ready-to-import **n8n template** wraps the same flow in a hosted quiz form with photo consent, a results page with product cards, retake-photo handling, a sensitive-skin filter and optional **Klaviyo** profile sync: [Olly's Automation Templates on Payhip](https://payhip.com/b/6TuWA) (paid; this script stays free and MIT).
 
+## Done-for-you image edits
+
+Don't want to code? I take small YouCam-powered photo jobs on Fiverr: [product lifestyle scenes](https://www.fiverr.com/olsols4/replace-product-photo-backgrounds-with-lifestyle-scenes-for-ecommerce), [AI headshots from your selfies](https://www.fiverr.com/olsols4/create-realistic-ai-professional-headshots-from-your-own-selfies), [hair colour and style previews](https://www.fiverr.com/olsols4/restyle-your-hair-and-hair-colour-on-your-own-photo-with-ai) and [clothing on AI models](https://www.fiverr.com/olsols4/put-your-clothing-and-accessories-on-realistic-ai-models).
+
 ## Notes
 - Faces are biometric data in many jurisdictions (UK/EU GDPR, Illinois BIPA): get explicit consent and link a privacy notice.
 - Results are cosmetic guidance, not medical advice.
